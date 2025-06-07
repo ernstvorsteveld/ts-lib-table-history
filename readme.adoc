@@ -1,1 +1,11 @@
 = Decorators for table history
+:toc:
+
+== Configuration
+
+[source,bash]
+----
+# Install TypeScript and @types/node (which provides TypeScript definitions for Node.js)
+npm install typescript @types/node --save-dev
+
+----
