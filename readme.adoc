@@ -8,4 +8,9 @@
 # Install TypeScript and @types/node (which provides TypeScript definitions for Node.js)
 npm install typescript @types/node --save-dev
 
+# Install eslint
+npm install --save-dev eslint @eslint/js typescript typescript-eslint
+
+
+
 ----
