@@ -1,0 +1,20 @@
+{
+  "name": "ts-lib-table-history",
+  "version": "0.0.1",
+  "description": "Decorators",
+  "homepage": "https://github.com/ernstvorsteveld/ts-lib-table-history#readme",
+  "bugs": {
+    "url": "https://github.com/ernstvorsteveld/ts-lib-table-history/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ernstvorsteveld/ts-lib-table-history.git"
+  },
+  "license": "ISC",
+  "author": "Ernst Vorsteveld",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
